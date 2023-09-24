@@ -1,7 +1,5 @@
 # Computer Versus Human Tic-Tac-Toe Game
 
-![Tic-Tac-Toe Screenshot](link_to_project_screenshot.png)
-
 This project is a classic Tic-Tac-Toe game built using Python. It was developed as part of the final project for the CSC1024 Programming Principles course at [Your University Name].
 
 ## How it Works
